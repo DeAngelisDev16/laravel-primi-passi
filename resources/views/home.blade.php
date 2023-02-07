@@ -10,6 +10,7 @@
 
 <body>
     <h1>Hello Laravel</h1>
+    <a href="/welcome">vai a welcome blade</a>
 
 </body>
 
